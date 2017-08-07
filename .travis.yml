@@ -1,8 +1,8 @@
 //.travis.yml
 language: node_js
-node_js:
 sudo: required
 dist: trusty
+node_js:
 - "7.6.0"
 
 before_script:
